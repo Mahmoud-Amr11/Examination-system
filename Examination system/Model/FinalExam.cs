@@ -32,6 +32,7 @@
             Console.WriteLine("===============================");
             Console.WriteLine($"Your Degree = {StudentDegree}");
             Console.WriteLine("===============================");
+            Console.WriteLine("Thank you");
 
             Console.ReadKey();
 

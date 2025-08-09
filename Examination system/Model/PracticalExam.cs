@@ -15,6 +15,7 @@
                 
             }
             Console.WriteLine($"Time Taken: {duration.Minutes} minutes {duration.Seconds} seconds");
+            Console.WriteLine("Thank you");
 
             Console.ReadKey();
         }
